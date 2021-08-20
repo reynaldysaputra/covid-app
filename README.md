@@ -1,4 +1,4 @@
-## `COVID APPA : What project is this?`
+## `COVID APP : What project is this?`
 
 The purpose of the Covid App project is to share the latest information about covid-19 throughout Indonesia.
 
