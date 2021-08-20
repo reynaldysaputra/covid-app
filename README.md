@@ -1,7 +1,5 @@
 ## `COVID APPA : What project is this?`
 
-The goal of the Hulu Movie project is to create and provide paid videos/movies that can be used for streaming, this project is basically just an exercise for myself in order to improve my skills using TailwindCSS.
-
 The purpose of the Covid App project is to share the latest information about covid-19 throughout Indonesia.
 
 In this project you can see some areas affected by covid-19, here you can see the death rate, recovered, and also treated.
